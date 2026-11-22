@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "com.arch.student",
-  "versionCode": 9,
-  "versionName": "0.3.4-team",
+  "versionCode": 10,
+  "versionName": "0.3.5-team",
   "size": 13626405,
-  "sha256": "d13e4e1904be3f0375fbd9c02ac6e01c7c770fa87717df38d0a34213c5b38683",
+  "sha256": "42fdf4fc001e27852dda332dc2e06875527e40f307250b45ce3517b7afe0c7a4",
   "url": "https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.apk",
-  "notes": "개인 일정 완료·취소 후 다른 기기에 즉시 갱신 신호를 보냅니다. 개인 일정 화면은 2초 간격으로 조용히 확인합니다. 저장 실패·계정 변경 시 잘못된 신호를 차단하며 기존 일정과 파일은 유지합니다."
+  "notes": "메인과 캘린더에서 할 일·일정을 선택해 추가할 수 있습니다. 선택한 날짜를 이어받고 공유 캘린더의 개인 할 일과 공유 일정을 구분합니다. 기존 일정과 파일은 유지합니다."
 }
