@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "com.arch.student",
-  "versionCode": 7,
-  "versionName": "0.3.2-team",
-  "size": 13610021,
-  "sha256": "846e968462ea27a2d7d69fa2817b98005c0ffb784cfe160ee985c2b751dbbadc",
+  "versionCode": 8,
+  "versionName": "0.3.3-team",
+  "size": 13626405,
+  "sha256": "736fc189ae6c817e3ab3a4893dd2d192f7396927644f352a172b010ac544573f",
   "url": "https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.apk",
-  "notes": "앱에서 새 버전을 확인하고 다운로드·설치할 수 있어요. 기존 일정과 파일은 유지됩니다."
+  "notes": "현재 화면 먼저 새로고침하고 나머지는 백그라운드로 동기화합니다. 상단 동기화 버튼을 추가하고 반복 진행 표시를 없앴습니다. 알림 허용 안내와 즉시 기기 연결을 보강했습니다."
 }
