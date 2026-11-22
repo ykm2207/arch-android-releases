@@ -2,7 +2,7 @@
 
 [최신 APK 다운로드](https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.apk) · [카카오톡용 ZIP](https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.zip)
 
-현재 버전: **0.3.5-team**
+현재 버전: **0.3.6-team**
 
 기존 ARCH 앱을 삭제하지 않고 APK를 열어 덮어 설치하세요. 기존 일정과 파일은 유지됩니다.
 이번 설치 후부터는 **계정·설정 → 앱 업데이트** 또는 앱의 새 버전 안내에서 다운로드·설치할 수 있습니다.
