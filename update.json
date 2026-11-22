@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "com.arch.student",
-  "versionCode": 8,
-  "versionName": "0.3.3-team",
+  "versionCode": 9,
+  "versionName": "0.3.4-team",
   "size": 13626405,
-  "sha256": "736fc189ae6c817e3ab3a4893dd2d192f7396927644f352a172b010ac544573f",
+  "sha256": "d13e4e1904be3f0375fbd9c02ac6e01c7c770fa87717df38d0a34213c5b38683",
   "url": "https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.apk",
-  "notes": "현재 화면 먼저 새로고침하고 나머지는 백그라운드로 동기화합니다. 상단 동기화 버튼을 추가하고 반복 진행 표시를 없앴습니다. 알림 허용 안내와 즉시 기기 연결을 보강했습니다."
+  "notes": "개인 일정 완료·취소 후 다른 기기에 즉시 갱신 신호를 보냅니다. 개인 일정 화면은 2초 간격으로 조용히 확인합니다. 저장 실패·계정 변경 시 잘못된 신호를 차단하며 기존 일정과 파일은 유지합니다."
 }
