@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "packageName": "com.arch.student",
+  "versionCode": 7,
+  "versionName": "0.3.2-team",
+  "size": 13610021,
+  "sha256": "846e968462ea27a2d7d69fa2817b98005c0ffb784cfe160ee985c2b751dbbadc",
+  "url": "https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.apk",
+  "notes": "앱에서 새 버전을 확인하고 다운로드·설치할 수 있어요. 기존 일정과 파일은 유지됩니다."
+}
