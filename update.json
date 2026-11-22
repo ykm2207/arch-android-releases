@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "com.arch.student",
-  "versionCode": 10,
-  "versionName": "0.3.5-team",
+  "versionCode": 11,
+  "versionName": "0.3.6-team",
   "size": 13626405,
-  "sha256": "42fdf4fc001e27852dda332dc2e06875527e40f307250b45ce3517b7afe0c7a4",
+  "sha256": "43f0e5ce073a531a0e1972c50f4d8c7497bdb4dc7c808a88baa4130b7f1d6417",
   "url": "https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.apk",
-  "notes": "메인과 캘린더에서 할 일·일정을 선택해 추가할 수 있습니다. 선택한 날짜를 이어받고 공유 캘린더의 개인 할 일과 공유 일정을 구분합니다. 기존 일정과 파일은 유지합니다."
+  "notes": "메인과 캘린더를 오늘 할일로 통합했습니다. 시간은 선택 사항이며 시간 유무와 관계없이 완료 체크할 수 있습니다. 기존 일정·할 일·파일과 완료 상태는 유지합니다."
 }
