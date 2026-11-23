@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "com.arch.student",
-  "versionCode": 11,
-  "versionName": "0.3.6-team",
+  "versionCode": 12,
+  "versionName": "0.3.7-team",
   "size": 13626405,
-  "sha256": "43f0e5ce073a531a0e1972c50f4d8c7497bdb4dc7c808a88baa4130b7f1d6417",
+  "sha256": "709bcbde30e9ecc09e5545531a1100c107da1ea585b99eef635497ff910b2fd3",
   "url": "https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.apk",
-  "notes": "메인과 캘린더를 오늘 할일로 통합했습니다. 시간은 선택 사항이며 시간 유무와 관계없이 완료 체크할 수 있습니다. 기존 일정·할 일·파일과 완료 상태는 유지합니다."
+  "notes": "오늘 할일 목록에서 제목과 시간을 구분하고 달력에서 오늘과 선택한 날짜를 찾기 쉽게 표시했습니다."
 }
