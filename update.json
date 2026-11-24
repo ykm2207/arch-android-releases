@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "com.arch.student",
-  "versionCode": 14,
-  "versionName": "0.3.9-team",
-  "size": 13646941,
-  "sha256": "b72d055cc13451fe29a9070ecc03db06b4e6ab753c6cf5bbb82cbfeb9cee17cb",
+  "versionCode": 15,
+  "versionName": "0.3.10-team",
+  "size": 13638861,
+  "sha256": "f3378134858d94e3c07898deaae744c44780b3fff6a6d4d30d87006aa3c460f7",
   "url": "https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.apk",
-  "notes": "내 DOT 탭을 정리하고 홈에서 출석과 오늘 일정을 구분했습니다. 공유 일정에서 팀원의 확인 현황과 댓글을 볼 수 있고, 공유 파일 알림을 누르면 해당 파일이 열립니다. 개인 일정 알림과 메모의 저장 오류도 수정했습니다."
+  "notes": "아이보리색 아치형 A를 홈 화면과 앱 목록에 적용했습니다. 원형·둥근 사각형 아이콘과 Android 테마 아이콘을 지원합니다."
 }
