@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "com.arch.student",
-  "versionCode": 13,
-  "versionName": "0.3.8-team",
-  "size": 13626405,
-  "sha256": "91387f6282efaa3aa22b18c2f11d2420c2b28baf6e1e5be38fd217428220319b",
+  "versionCode": 14,
+  "versionName": "0.3.9-team",
+  "size": 13646941,
+  "sha256": "b72d055cc13451fe29a9070ecc03db06b4e6ab753c6cf5bbb82cbfeb9cee17cb",
   "url": "https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.apk",
-  "notes": "시간표의 한 교시를 한 칸으로 표시하고 이수학점에 따라 수업 종료 시간을 계산합니다. 강의실 표시와 종료된 학기의 문자 성적 입력을 개선했으며 기존 과목·추가 수업 시간·성적은 유지합니다."
+  "notes": "내 DOT 탭을 정리하고 홈에서 출석과 오늘 일정을 구분했습니다. 공유 일정에서 팀원의 확인 현황과 댓글을 볼 수 있고, 공유 파일 알림을 누르면 해당 파일이 열립니다. 개인 일정 알림과 메모의 저장 오류도 수정했습니다."
 }
