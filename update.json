@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "com.arch.student",
-  "versionCode": 12,
-  "versionName": "0.3.7-team",
+  "versionCode": 13,
+  "versionName": "0.3.8-team",
   "size": 13626405,
-  "sha256": "709bcbde30e9ecc09e5545531a1100c107da1ea585b99eef635497ff910b2fd3",
+  "sha256": "91387f6282efaa3aa22b18c2f11d2420c2b28baf6e1e5be38fd217428220319b",
   "url": "https://github.com/ykm2207/arch-android-releases/releases/download/android-team/ARCH.apk",
-  "notes": "오늘 할일 목록에서 제목과 시간을 구분하고 달력에서 오늘과 선택한 날짜를 찾기 쉽게 표시했습니다."
+  "notes": "시간표의 한 교시를 한 칸으로 표시하고 이수학점에 따라 수업 종료 시간을 계산합니다. 강의실 표시와 종료된 학기의 문자 성적 입력을 개선했으며 기존 과목·추가 수업 시간·성적은 유지합니다."
 }
